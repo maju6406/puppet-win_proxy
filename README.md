@@ -85,4 +85,4 @@ Currently tested only against Windows Server 2012 R2.
 All contributions are welcome. Feel free to fork and contribute or file an issue.
 
 ## Release Notes
-Currently on the initial release
+0.2.0
