@@ -46,10 +46,12 @@
 #
 # === Authors
 #
-# James E. Jones <velocity303@gmail.com>
+# 0.1.0 James E. Jones <velocity303@gmail.com>
+# 0.2.0 Abir Majumdar
 #
 # === Copyright
 #
+# Copyright 2018 Abir Majumdar 
 # Copyright 2015 James E. Jones 
 #
 class win_proxy (
